@@ -7,6 +7,7 @@ namespace SyncTest
         static void Main(string[] args)
         {
             Console.WriteLine("I am testing a synchronization");
+            Console.WriteLine("Now I am testing sync of changes");
         }
     }
 }
